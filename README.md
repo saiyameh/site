@@ -1,6 +1,6 @@
 # site
 
-[![Hugo](https://img.shields.io/chocolatey/v/hugo?label=Built%20with%20Hugo)](https://gohugo.io/)(/br)
+[![Hugo](https://img.shields.io/chocolatey/v/hugo?label=Built%20with%20Hugo)](https://gohugo.io/)\
 My personal/portfolio website
 
 ## Usage
