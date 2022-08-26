@@ -1,25 +1,25 @@
 # site
 
 [![Hugo](https://img.shields.io/chocolatey/v/hugo?label=Built%20with%20Hugo)](https://gohugo.io/)\
-My personal/portfolio website
+my personal/portfolio website
 
-**Usage**
-install Hugo using **chocolatey**
+# usage
+- install Hugo using **chocolatey**
 
 ```sh
 choco install hugo -confirm
 ```
 
-download
+- download
 
 ```sh
 git clone https://github.com/saiyameh/site.git
 ```
 
-run in cmd
+- run in cmd
 
 ```sh
 hugo server
 ```
 
-run **localhost:1313** in browser
+- run **localhost:1313** in browser
