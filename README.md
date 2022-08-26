@@ -1,4 +1,4 @@
-[![built with hugo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_of_Hugo_the_static_website_generator.svg/1024px-Logo_of_Hugo_the_static_website_generator.svg.png)](https://gohugo.io/)
+![built with hugo](https://gohugo.io/)
 
 <br />
 <p align="center">
