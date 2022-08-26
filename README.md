@@ -1,4 +1,4 @@
-[![Hugo](https://img.shields.io/chocolatey/v/hugo)](https://gohugo.io/)
+[![Hugo](https://img.shields.io/chocolatey/v/hugo?label=Built%20with%20Hugo)](https://gohugo.io/)
 
 <br />
 <p align="center">
