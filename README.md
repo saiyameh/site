@@ -4,7 +4,7 @@
 my personal/portfolio website
 
 ## usage
-**i.** install Hugo using **chocolatey** by ```choco install hugo -confirm```\
+**i.** install hugo using **chocolatey** by ```choco install hugo -confirm```\
 **ii.** download using ```git clone https://github.com/saiyameh/site.git```\
 **iii.** run hugo server in cmd by ```hugo server```\
 **iv.** run **localhost:1313** in browser
