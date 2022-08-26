@@ -1,4 +1,4 @@
-[![Contributors][contributors-shield]][https://github.com/saiyameh/site/graphs/contributors]
+[![Contributors][contributors-shield]https://github.com/saiyameh/site/graphs/contributors
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
