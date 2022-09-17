@@ -1,5 +1,5 @@
 baseURL = "https://saiyamjain.in"
-title = "My Portfolio"
+title = "site.io"
 languageCode = "en"
 DefaultContentLanguage = "en"
 theme = "hugo.386"
@@ -13,7 +13,7 @@ preserveTaxonomyNames = true
     mainpagesubtitle = "SKILLS" 
 
     # description of website
-    mainpagedesc = "> HTML, JavaScript, CSS, SASS and many under development"
+    mainpagedesc = "> HTML, JavaScript, CSS, SASS, WordPress and many under development"
 
     # name to display in the copyright section in the footer
     copyrightname = ""
